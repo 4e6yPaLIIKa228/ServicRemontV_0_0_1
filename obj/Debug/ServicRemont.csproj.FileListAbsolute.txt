@@ -1,0 +1,15 @@
+C:\Users\студент.STD5\source\repos\ServicRemont\bin\Debug\ServicRemont.exe.config
+C:\Users\студент.STD5\source\repos\ServicRemont\bin\Debug\ServicRemont.exe
+C:\Users\студент.STD5\source\repos\ServicRemont\bin\Debug\ServicRemont.pdb
+C:\Users\студент.STD5\source\repos\ServicRemont\obj\Debug\ServicRemont.csproj.AssemblyReference.cache
+C:\Users\студент.STD5\source\repos\ServicRemont\obj\Debug\MainWindow.g.cs
+C:\Users\студент.STD5\source\repos\ServicRemont\obj\Debug\App.g.cs
+C:\Users\студент.STD5\source\repos\ServicRemont\obj\Debug\ServicRemont_MarkupCompile.cache
+C:\Users\студент.STD5\source\repos\ServicRemont\obj\Debug\ServicRemont_MarkupCompile.lref
+C:\Users\студент.STD5\source\repos\ServicRemont\obj\Debug\MainWindow.baml
+C:\Users\студент.STD5\source\repos\ServicRemont\obj\Debug\ServicRemont.g.resources
+C:\Users\студент.STD5\source\repos\ServicRemont\obj\Debug\ServicRemont.Properties.Resources.resources
+C:\Users\студент.STD5\source\repos\ServicRemont\obj\Debug\ServicRemont.csproj.GenerateResource.cache
+C:\Users\студент.STD5\source\repos\ServicRemont\obj\Debug\ServicRemont.csproj.CoreCompileInputs.cache
+C:\Users\студент.STD5\source\repos\ServicRemont\obj\Debug\ServicRemont.exe
+C:\Users\студент.STD5\source\repos\ServicRemont\obj\Debug\ServicRemont.pdb
