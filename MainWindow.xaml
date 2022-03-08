@@ -13,13 +13,13 @@
             <RowDefinition Height="105"/>
         </Grid.RowDefinitions>
         <Grid Grid.Row="0">
-            <TextBlock Text="Добро пожаловать в UpService" FontSize="31" HorizontalAlignment="Center" Margin="5" FontFamily="Swis721 BlkOul BT" />
+            <TextBlock Text="Добро пожаловать в UpService" FontSize="31" HorizontalAlignment="Center" Margin="5" FontFamily="Comic Sans MS" TextDecorations="{x:Null}" FontStyle="Italic" />
         </Grid>
         <Grid Grid.Row="1">
             <Image Source="img/Безымянный.png" HorizontalAlignment="Center" VerticalAlignment="Center"  />
         </Grid>
         <Grid Grid.Row="2">
-            <Button  Margin="25" Content="Стартуем"   FontSize="31" FontFamily="ItalicT"  FontWeight="Bold" Background="White" >
+            <Button  Margin="25" Content="Стартуем"   FontSize="31" FontFamily="ItalicT"  FontWeight="Bold" Background="White" Click="Button_Click" >
                 <Button.Resources>
                     <Style TargetType="Border">
                         <Setter Property="CornerRadius" Value="10"/>

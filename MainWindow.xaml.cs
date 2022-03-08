@@ -24,5 +24,12 @@ namespace ServicRemont
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            Authoriz AdSt = new Authoriz();
+            this.Close();
+            AdSt.ShowDialog();
+        }
     }
 }
